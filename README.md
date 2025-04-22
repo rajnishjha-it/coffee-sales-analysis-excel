@@ -75,7 +75,8 @@ The goal is to identify sales trends, customer behavior, and business opportunit
 
 ## 🙋‍♀️ About Me
 
-Hi, I'm **Rajnish Kumar Jha**, an **aspiring Data Analyst** with a strong interest in transforming raw data into meaningful insights. 
+I'm *Rajnish Kumar Jha*, an MCA graduate with a passion for data analytics and business intelligence. 
+I am an **aspiring Data Analyst** with a strong interest in transforming raw data into meaningful insights. 
 I enjoy solving business problems using data and creating dashboards that support data-driven decision-making. 
 This project is part of my learning journey and showcases my skills in Excel-based data analysis.
 
